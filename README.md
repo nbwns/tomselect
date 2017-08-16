@@ -4,8 +4,6 @@
 
 *What do you mean by editable ?*
 
-__test__
-
 When you apply TomSelect on a dropdown a button "Add" appears next to the dropdown.
 Clicking on this "Add" button reveals a text field and a "Save" button.
 When clicking on "Save" you can either:
